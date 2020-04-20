@@ -18,3 +18,7 @@
 4. img
 5. script
 6. link(background)
+
+### HTML语义化
+
+

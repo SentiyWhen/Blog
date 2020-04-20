@@ -13,7 +13,7 @@
     "@vuepress/theme-blog": "^2.2.0"
   },
   "scripts": {
-    "dev": "vuepress dev docs",
+    "start": "vuepress dev docs",
     "docs:build": "vuepress build docs"
   },
   "keywords": [],
