@@ -1,0 +1,4 @@
+<ClientOnly>
+  <HomeLayout/>
+  <BottomData/>
+</ClientOnly>
