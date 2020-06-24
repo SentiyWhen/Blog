@@ -1,15 +1,15 @@
 ---
 home: true
 heroImage: /bull.png
-heroText: Ben的前端记录
-tagline: 一点一滴都是进步
+heroText: BenBa
+tagline: 博观而约取  厚积而薄发
 actionText: 马上进入 →
-actionLink: /pages/folder1/test1.md
+actionLink: /pages/write-code/write-new.md
 features:
-- title: 简洁至上
-  details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。
-- title: Vue驱动
-  details: 享受 Vue + webpack 的开发体验，在 Markdown 中使用 Vue 组件，同时可以使用 Vue 来开发自定义主题。
-- title: 高性能
-  details: VuePress 为每个页面预渲染生成静态的 HTML，同时在页面被加载的时候，将作为 SPA 运行。
+- title: 四面楚歌
+  details: 安逸致死
+- title: 止战之殇
+  details: 持续进步
+- title: 说好不哭
+  details: 努力坚持
 ---
